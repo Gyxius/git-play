@@ -1,5 +1,5 @@
-a = 1
+a = 6
 b = 3
 c = 5
 
-print(a + b + c)
+print(a + b)
